@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=700000,RESOLUTION=640x474
+https://raw.githubusercontent.com/tameimpalathegoat/16bfc73089f64ca8/refs/heads/master/474p/github_playlist_474p.m3u8?_cb=1771430887
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360
+https://raw.githubusercontent.com/tameimpalathegoat/16bfc73089f64ca8/refs/heads/master/360p/github_playlist_360p.m3u8?_cb=1771430887
